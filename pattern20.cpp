@@ -29,13 +29,11 @@ class Solution {
             for(int k=0;k<(2*n-i-1 );k++){
                 cout<<"*";
             }
-            
+              
             
             for(int j=0;j<2*(i+1-n);j++){
                 cout<<" ";
             }
-            
-            
             
             for(int k=0;k<(2*n -i-1);k++){
                 cout<<"*";
@@ -44,10 +42,8 @@ class Solution {
             }
             
             cout<<"\n";
-            
-
         }
-    }
+    } 
 };
 
 //{ Driver Code Starts.
